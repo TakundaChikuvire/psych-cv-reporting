@@ -1,9 +1,8 @@
 # Cardiovascular Outcome Reporting in Psychiatric RCTs
 
-Analysis code for a poster on how often randomized controlled trials (RCTs) of psychiatric drugs report **cardiovascular (CV) outcomes**. It compares antidepressant-only and antipsychotic-only trials, and looks at reporting by geographic region, publication year (2015–2024) and trial sample size.
+Analysis code for a manuscript on how often randomized controlled trials (RCTs) of psychiatric drugs report **cardiovascular (CV) outcomes**. It compares antidepressant-only and antipsychotic-only trials and examines reporting by geographic region, publication year (2015–2024), and trial sample size.
 
-> **Author:** _[Your name]_, _[Lab / Department]_, Cornell University
-> **Poster:** _[Conference name, year]_
+> **Author:** Takunda Chikuvire, Cornell University
 
 ---
 
@@ -30,8 +29,8 @@ A power analysis reports the minimum effect sizes detectable at 80% power for te
 .
 ├── README.md                      ← this file
 ├── psych_cv_poster_analysis.R     ← full analysis: data cleaning, figures, tests, power
-├── psych-cv project.csv           ← extracted trial data (if shared — see "Data" below)
-├── figures/                       ← poster figures (optional copy of the PNG output)
+├── psych-cv project.csv           ← extracted trial data 
+├── figures/                       ← figures
 └── .gitignore
 ```
 
@@ -55,7 +54,7 @@ A power analysis reports the minimum effect sizes detectable at 80% power for te
 ### Output
 - `Figure2_drug_class.png`: Figure 2, drug class (A: CV outcomes reported, B: primary vs. secondary outcomes, C: number of CV outcomes per trial)
 - `Figure3_trial_characteristics.png`: Figure 3, other trial characteristics (A: geographic region, B: publication year, C: sample size)
-- Test results, the summary table, the power analysis and package versions are printed to the console.
+- Test results, the summary table, the power analysis, and package versions are printed to the console.
 
 The script sets a random seed (`set.seed(2025)`), so the jittered points in the plots are identical on every run.
 
@@ -96,18 +95,16 @@ Each row of `psych-cv project.csv` is one trial. The script uses these columns:
 - *Other*, *Multiple Locations*, *Africa* and *Australia* are combined into one **Other** region for Figure 3A and Test 4. *Not Reported* regions are excluded.
 - Leading and trailing spaces are trimmed from category values.
 
-_If the data file is not included in this repository, describe here how to obtain it (e.g., "available from the authors on request")._
-
 ---
 
 ## Citation
 
 If you use this code, please cite:
 
-> _[Your name]_ (2026). *Cardiovascular outcome reporting in psychiatric randomized controlled trials* [Computer software]. GitHub. _[repository URL]_
+> Takunda Chikuvire (2026). *Cardiovascular outcome reporting in psychiatric randomized controlled trials* [Computer software]. GitHub. _[repository URL]_
 
 ---
 
 ## License
 
-_[e.g., MIT License — see `LICENSE`]_
+
