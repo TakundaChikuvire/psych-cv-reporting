@@ -1,0 +1,21 @@
+# ----- R session files -----
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+
+# ----- RStudio -----
+.Rproj.user/
+*.Rproj
+
+# ----- OS clutter -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Office temp files (e.g., CSV/Excel open in Excel) -----
+~$*
+
+# ----- Uncomment to keep the data file out of the repo -----
+# psych-cv project.csv
+# data/

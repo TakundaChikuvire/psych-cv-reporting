@@ -1,0 +1,70 @@
+﻿Article DOI,Disease/Disorder of Study,Disease Category,Total N in Trial,Drug Classification,Cardiovascular Outcomes Reported,Type of Cardiovascular Outcomes Reported,Number of Cardiovascular outcomes reported,Primary Cardiovascular Outcomes,Secondary Outcomes,Geographic Region,Publication Year
+10.4088/JCP.19m13191,major depressive disorder,Depression-related Disorders,226,Antidepressant only,Yes,blood pressure,1,NA,Blood Pressure,Multiple Locations,2020
+10.1177/0269881116675512,Anxiety and depression in life-threatening cancer,Depression-related Disorders,29,Antidepressant only,Yes,blood pressure; heart rate,2,NA,blood pressure; heart rate,North America,2016
+10.1016/j.euroneuro.2018.11.1102,Depression,Depression-related Disorders,57,Antidepressant only,No,NA,0,NA,NA,Europe,2019
+10.1038/s41386-023-01751-9,Major depressive disorder,Depression-related Disorders,440,Antidepressant only,Yes,vital signs; electrocardiograms,2,NA,vital signs; electrocardiograms,North America,2024
+10.1001/jamanetworkopen.2022.30367,Treatment-resistant depression,Depression-related Disorders,173,Antidepressant only,Yes,BMI,1,NA,BMI,Europe,2022
+10.24869/psyd.2024.47,Schizophrenia,Schizophrenia-related disorders,120,Antipyschotic and Antidepressant,No,NA,0,NA,NA,NA,2024
+10.1016/S2215-0366(19)30366-9,depression,Depression-related Disorders,653,Antidepressant only,No,NA,0,NA,NA,Europe,2019
+10.1001/jamapsychiatry.2020.2076,Early-Phase Schizophrenia,Schizophrenia-related disorders,489,Antipyschotic only,Yes,weight gain; elevated cholesterol,2,NA,weight gain; elevated cholesterol,North America,2020
+10.1152/ajpendo.00315.2017,Healthy volunteers,Other,15,Antipyschotic only,Yes,body weight,1,NA,body weight,North America,2018
+10.1002/cpt.2487,Healthy volunteers,Other,23,Antidepressant only,Yes,QTc; blood pressure; heart rate; electrocardiograms,4,NA,QTc; blood pressure; heart rate; electrocardiograms,Europe,2022
+10.1016/S2215-0366(23)00258-4,Schizophrenia,Schizophrenia-related disorders,253,Antipyschotic only,Yes,body weight,1,NA,body weight,Europe,2023
+10.1016/j.pscychresns.2020.111085,Schizophrenia,Schizophrenia-related disorders,38,Antipyschotic only,Yes,vital signs; body weight; electrocardiogram,3,NA,vital signs; body weight; electrocardiogram,NA,2020
+10.1093/schbul/sbac065,Clozapine-resistant schizophrenia,Schizophrenia-related disorders,84,Antipyschotic only,No,NA,0,NA,NA,Australia,2022
+10.1038/s41398-022-01958-2,Antipsychotic-induced weight gain,Schizophrenia-related disorders,100,Antipyschotic only,Yes,body weight; BMI; total cholesterol,3,NA,body weight; BMI; total cholesterol,Asia,2022
+10.1111/pcn.13565,Obsessive-compulsive disorder,Other,60,Antidepressant only,No,NA,0,NA,NA,Asia,2023
+10.1038/s41386-024-01951-x,schizophrenia,Schizophrenia-related disorders,16,Antipyschotic only,Yes,"blood pressure, heart rate, oral body temperature, respiratory rate, 12-lead electrocardiograms",5,NA,"blood pressure, heart rate, oral body temperature, respiratory rate, 12-lead electrocardiograms",North America,2024
+10.1080/16506073.2023.2265560,Depression,Depression-related Disorders,93,Antidepressant only,No,NA,0,NA,NA,North America,2024
+10.1007/s00213-024-06581-1,Remitted major depressive disorder,Depression-related Disorders,23,Antipyschotic only,No,NA,0,NA,NA,Asia,2024
+10.3310/hta22670,Very late-onset schizophrenia-like psychosis,Schizophrenia-related disorders,101,Antipyschotic only,Yes,body weight,1,NA,body weight,Europe,2018
+10.1016/j.schres.2017.10.014,Healthy volunteers,Other,106,Antipyschotic only,Yes,body weight,1,NA,body weight,NA,2018
+10.1111/pcn.12226,Schizophrenia,Schizophrenia-related disorders,45,Antipyschotic only,Yes,Heart Rate Variability,1,NA,Heart Rate Variability,Asia,2015
+10.4088/PCC.20m02888,Bipolar Disorder,Schizophrenia-related disorders,30,Antipyschotic only,Yes,lipid profile; electrocardiogram; body weight; vital signs,4,NA,lipid profile; electrocardiogram; body weight; vital signs,North America,2021
+10.1016/j.jad.2024.05.063,depressive disorder,Depression-related Disorders,571,Antidepressant only,No,NA,0,NA,NA,Asia,2024
+10.1186/s12888-016-0838-1,Major depressive disorder,Depression-related Disorders,134,Antidepressant only,No,NA,0,NA,NA,Europe,2016
+10.1055/a-2291-7130,Healthy volunteers,Other,43,Antipyschotic only,No,NA,0,NA,NA,Europe,2024
+10.1186/s12916-023-02968-7,Schizophrenia,Schizophrenia-related disorders,964,Antipyschotic only,No,NA,0,NA,NA,Asia,2023
+10.1007/s00213-018-4977-6,Bipolar depression,Depression-related Disorders,431,Antipyschotic only,Yes,body weight; blood pressure; pulse rate; 12-lead electrocardiogram,4,NA,body weight; blood pressure; pulse rate; 12-lead electrocardiogram,Asia,2018
+10.1001/jamanetworkopen.2024.18383,Long-term antidepressant users,Depression-related Disorders,330,Antidepressant only,No,NA,0,NA,NA,Europe,2024
+10.3310/hta25690,Depression,Depression-related Disorders,478,Antidepressant only,No,NA,0,NA,NA,Europe,2021
+10.1016/j.jpsychires.2017.09.008,schizophrenia,Schizophrenia-related disorders,107,Antipyschotic only,Yes,body weight,1,NA,body weight,North America,2017
+10.4088/JCP.19m12742,Depression,Depression-related Disorders,144,Antidepressant only,Yes,"Hypertension, Diabetes, lipid profile, acute heart failure, angina or shortness of breath, blood clot",6,acute heart failure; angina; blood clot,"Hypertension, Diabetes, lipid profile",North America,2019
+10.1093/ijnp/pyx043,Depression,Depression-related Disorders,429,Antidepressant only,No,NA,0,NA,NA,Europe,2017
+10.4088/JCP.19m12769,Schizophrenia (acute exacerbation),Schizophrenia-related disorders,403,Antipyschotic only,Yes,body weight,1,NA,body weight,Multiple Locations,2020
+10.1186/s12871-024-02733-0,Depression in elderly hip-fracture surgery patients,Depression-related Disorders,90,Antidepressant only,Yes,heart rate; blood pressure; electrocardiogram,3,NA,heart rate; blood pressure; electrocardiogram,Asia,2024
+10.3310/hta24440,Psychosis (antipsychotic-related sexual dysfunction),Schizophrenia-related disorders,10,Antipyschotic only,Yes,tachycardia; postural hypotension; hypertension; ECG abnormality,4,NA,tachycardia; postural hypotension; hypertension; ECG abnormality,Europe,2020
+10.1038/s41598-023-44443-6,Healthy volunteers,Other,70,Antidepressant only,Yes,heart rate; blood pressure,2,NA,heart rate; blood pressure,Europe,2023
+10.3310/hta20290,schizophrenia,Schizophrenia-related disorders,296,Antidepressant only,Yes,corrected QT interval prolongation,1,NA,corrected QT interval prolongation,Europe,2016
+10.1176/appi.ajp.2014.14020173,serious mental illnesses,Schizophrenia-related disorders,200,Antipyschotic only,Yes,blood pressure; lipid profile,2,NA,blood pressure; lipid profile,North America,2015
+10.1186/s12888-017-1562-1,acute pyschosis,Schizophrenia-related disorders,60,Antipyschotic only,No,NA,0,NA,NA,Europe,2017
+10.1590/1516-4446-2020-1705,Depression,Depression-related Disorders,45,Antidepressant only,Yes,heart rate; blood pressure,2,NA,heart rate; blood pressure,Other,2022
+10.1016/S0140-6736(24)01809-9,Major Depressive disorder,Depression-related Disorders,487,Antidepressant only,Yes,Blood Pressure; Blood Glucose Concentration; glycated haemoglobin A1c,3,NA,Blood Pressure; Blood Glucose Concentration; glycated haemoglobin A1c,Africa,2024
+10.1001/jamanetworkopen.2023.0147,Treatment-resistant depression,Depression-related Disorders,150,Antidepressant only,Yes,"lipid profile (HDL, LDL)",1,NA,"lipid profile (HDL, LDL)",Asia,2023
+10.1016/j.dsx.2017.08.004,SGA metabolic effects,Schizophrenia-related disorders,100,Antipyschotic only,Yes,blood pressure; HDL; fasting blood sugar; waist circumference; body weight; BMI,6,NA,blood pressure; HDL; fasting blood sugar; waist circumference; body weight; BMI,NA,2018
+10.1001/jamapsychiatry.2018.1088,Disruptive behavioral disorders,Other,144,Antipyschotic only,No,NA,0,NA,NA,North America,2018
+10.1001/jamanetworkopen.2020.27909,Schizophrenia,Schizophrenia-related disorders,311,Antipyschotic only,No,NA,0,NA,NA,Europe,2020
+10.1371/journal.pone.0290965,Antidepressant discontinuation,Depression-related Disorders,119,Antidepressant only,No,NA,0,NA,NA,Europe,2023
+10.2196/jmir.8602,Refractory depression,Depression-related Disorders,164,Antidepressant only,No,NA,0,NA,NA,Asia,2017
+10.1016/j.bbi.2024.06.017,first-episode psychosis,Schizophrenia-related disorders,17,Antipyschotic only,Yes,heart rate; BMI; Waist Circumference,3,NA,heart rate; BMI; Waist Circumference,Europe,2024
+10.1097/QAD.0000000000000797,Depression in HIV,Depression-related Disorders,304,Antidepressant only,No,NA,0,NA,NA,North America,2015
+10.1001/jamapsychiatry.2014.1734,First-episode schizophrenia,Schizophrenia-related disorders,24,Antipyschotic only,No,NA,0,NA,NA,North America,2015
+10.1002/brb3.1775,Depression,Depression-related Disorders,137,Antidepressant only,Yes,"heart rate, blood pressure, and oxygen saturation; Hypertension; Diabetes; Atherosclerosis; Hyperlipidemia",6,Atherosclerosis,"heart rate, blood pressure, and oxygen saturation; Hypertension; Diabetes;Hyperlipidemia",Asia,2021
+10.1371/journal.pmed.1004019,depression and hypertension,Depression-related Disorders,2365,Antidepressant only,Yes,blood pressure,1,NA,Blood pressure,Asia,2022
+10.3310/hta23070,Schizophrenia,Schizophrenia-related disorders,487,Antipyschotic only,No,NA,0,NA,NA,Europe,2019
+10.4088/JCP.15m10511,Pharmacotherapy-resistant depression,Depression-related Disorders,80,Antidepressant only,No,NA,0,NA,NA,Asia,2017
+10.1016/S2215-0366(18)30141-X,Schizophrenia-like psychosis,Schizophrenia-related disorders,92,Antipyschotic only,No,NA,0,NA,NA,Europe,2018
+10.1001/jamanetworkopen.2023.52094,Depression in heart failure,Depression-related Disorders,416,Antidepressant only,Yes,heart failure; myocardial infarction history; stroke history; BMI,4,heart failure; myocardial infarction; stroke,BMI,North America,2024
+10.1007/s10597-016-0007-5,Patients on antipsychotics,Other,240,Antipyschotic only,Yes,metabolic parameters (cardiometabolic screening values),1,NA,metabolic parameters (cardiometabolic screening values),North America,2017
+10.1007/s00726-016-2194-3,SSRI-resistant depression (adolescent females),Depression-related Disorders,34,Antidepressant only,Yes,electrocardiogram; body weight,2,NA,electrocardiogram; body weight,North America,2016
+10.1002/cpdd.290,healthy volunteers,Other,62,Antipyschotic only,No,NA,0,NA,NA,Europe,2016
+10.1016/j.ctim.2017.09.011,Non-remitted depression,Depression-related Disorders,9,Antidepressant only,Yes,BMI (baseline),1,NA,BMI,Other,2018
+10.4088/JCP.15m10490,Schizophrenia,Schizophrenia-related disorders,103,Antipyschotic only,Yes,orthostatic hypotension (adverse event); body weight (baseline),2,NA,orthostatic hypotension; body weight,Asia,2016
+10.1002/hbm.25400,healthy volunteers,Other,21,Antipyschotic only,Yes,blood flow,1,NA,blood flow,Europe,2021
+10.1590/1516-4446-2016-1993,"schizophrenia, schizophreniform disorder, or schizoaffective disorder",Schizophrenia-related disorders,85,Antipyschotic only,Yes,Lipid profile,1,NA,Lipid profile,Other,2017
+10.1016/S0140-6736(15)00308-6,Late-life treatment-resistant depression,Depression-related Disorders,181,Antipyschotic and Antidepressant,Yes,body weight; lipids; blood glucose,3,NA,body weight; lipids; blood glucose,North America,2015
+10.1177/0269881118754708,Healthy volunteers,Other,24,Antipyschotic only,Yes,Lipid profile; body weight,2,NA,Lipid profile; body weight,North America,2018
+10.1192/bjp.2018.167,schizophrenia; schizoaffective disorder; first-episode psychosis,Schizophrenia-related disorders,414,Antipyschotic only,Yes,"body weight, BMI, waist circumference, blood pressure, fasting glucose, Haemoglobin A1C, lipid profile",7,NA,"body weight, BMI, waist circumference, blood pressure, fasting glucose, Haemoglobin A1C, lipid profile",Europe,2019
+10.1007/s40263-017-0458-4,Borderline personality disorder,Other,51,Antipyschotic only,Yes,body weight,1,NA,body weight,Europe,2017
+10.1097/JCP.0000000000000898,Psychosis,Schizophrenia-related disorders,46,Antipyschotic only,No,NA,0,NA,NA,North America,2018
+,,,,,,,,,,,
