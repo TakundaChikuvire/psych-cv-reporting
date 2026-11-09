@@ -101,7 +101,7 @@ Each row of `psych-cv project.csv` is one trial. The script uses these columns:
 
 If you use this code, please cite:
 
-> Takunda Chikuvire (2026). *Cardiovascular outcome reporting in psychiatric randomized controlled trials* [Computer software]. GitHub. _[repository URL]_
+> Takunda Chikuvire (2026). *Cardiovascular outcome reporting in psychiatric randomized controlled trials* [Computer software]. GitHub. https://github.com/TakundaChikuvire/psych-cv-reporting 
 
 ---
 
